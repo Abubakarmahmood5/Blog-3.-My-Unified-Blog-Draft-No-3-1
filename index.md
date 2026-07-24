@@ -18,4 +18,4 @@ Enroll the `play-server` instance as a third monitored endpoint in Wazuh and app
 
 ## Project Proposal
 
-[Project Proposal](./project-proposal.md)
+[Plan Proposal](./Plan-proposal.md)
