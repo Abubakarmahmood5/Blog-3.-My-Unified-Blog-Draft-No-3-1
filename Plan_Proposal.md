@@ -66,7 +66,7 @@
 **Why I picked this:** Account creation is one of the most obvious signs of an active compromise, yet it can easily be missed if nobody is watching for it[cite: 2]. I want to confirm that my deployment will catch this[cite: 2]. And I'm curious about the chain: does creating a user and then giving it sudo rights generate two separate alerts, or does Wazuh correlate them into a single narrative? That correlation question is what excites me most about SIEM[cite: 2].
 
 **MITRE ATT&CK reference:** T1136.001 Create Account: Local Account; bonus: T1548.003 - Sudo and Sudo Caching[cite: 2]
-[view Project Proposal](project-proposal.md)
+
 **References to use while implementing:**
 * Red Canary / ART-T1136.001 Atomic Tests (GitHub): atomic test to create a local Linux user via shell commands[cite: 2].
 * MITRE ATT&CK-T1136.001 & T1548.003 Pages: technique context, detection data sources, and mitigation info[cite: 2].
