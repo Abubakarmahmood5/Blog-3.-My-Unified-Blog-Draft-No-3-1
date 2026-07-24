@@ -16,6 +16,6 @@ Enroll the `play-server` instance as a third monitored endpoint in Wazuh and app
 ## Changelog Links
 * *(Leave this blank for now. You will add links here to your daily changelog notes as you run the commands in the terminal.)*
 
-## Mistakes Encountered
-* *(Leave this blank for now. You will link your Mistake notes here when any software throws an error or configurations do not work immediately.)*
+## Project Proposal
+
 [Project Proposal](./project-proposal.md)
